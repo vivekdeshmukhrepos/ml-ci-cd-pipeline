@@ -1,0 +1,13 @@
+1. Data Injestion
+2. Data Transformation
+3. Model Trainer
+4. Model Evaluation
+5. Model Deployment
+
+CI/CD pipeline Github Actions
+
+---------------------
+python -m venv .\venv\Scripts\Activate.ps1
+pip install --upgrade pip 
+OR
+python.exe -m pip install --upgrade pip
