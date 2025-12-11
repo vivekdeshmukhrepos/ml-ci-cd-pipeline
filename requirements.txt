@@ -1,0 +1,5 @@
+numpy
+pandas
+seaborn
+# Trigger Setup.py to install the package in editable mode
+-e .
