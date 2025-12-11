@@ -1,4 +1,4 @@
-1. Data Injestion
+1. Data Injestion  -- Reading data from database or files or any external source
 2. Data Transformation
 3. Model Trainer
 4. Model Evaluation
