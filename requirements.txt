@@ -1,5 +1,22 @@
 numpy
 pandas
+# Seaborn is a Python data visualization library based on matplotlib. 
+# It provides a high-level interface for drawing attractive and informative statistical 
+
 seaborn
+# Matplotlib is a comprehensive library for creating static, animated, 
+# and interactive visualizations in Python
+matplotlib
+
+# It provides simple and efficient tools for predictive data analysis 
+scikit-learn
+
+# Used for ranking, classification, regression and other ML tasks.
+catboost
+
+# XGBoost is an optimized distributed gradient boosting library 
+# Designed to be highly efficient, flexible and portable
+
+xgboost
 # Trigger Setup.py to install the package in editable mode
 -e .

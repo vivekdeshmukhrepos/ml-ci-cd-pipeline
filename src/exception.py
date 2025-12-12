@@ -1,7 +1,7 @@
 # Exception handling module
 import logging
 import sys
-from src.logger import logging
+# from src.logger import logging
 
 def error_message_detail(error, error_detail: sys):
     """Generate detailed error message."""
@@ -24,10 +24,10 @@ class CustomException(Exception):
     def __str__(self):
         return error_message_detail(self.error, self.error_detail)
     
-if __name__ == "__main__":
+# if __name__ == "__main__":
     
-    try:
-        a = 1/0
-    except Exception as e:
-        logging.info("Raising Custom Exception now. Its Divide by zero error    ")
-        raise CustomException(e, sys)
+#     try:
+#         a = 1/0
+#     except Exception as e:
+#         logging.info("Raising Custom Exception now. Its Divide by zero error    ")
+#         raise CustomException(e, sys)
