@@ -18,5 +18,9 @@ catboost
 # Designed to be highly efficient, flexible and portable
 
 xgboost
+
+# To create a pkl file
+dill
+
 # Trigger Setup.py to install the package in editable mode
 -e .
