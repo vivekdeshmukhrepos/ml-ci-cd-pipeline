@@ -22,5 +22,8 @@ xgboost
 # To create a pkl file
 dill
 
+Flask
+pickle
+dataclasses
 # Trigger Setup.py to install the package in editable mode
 -e .
